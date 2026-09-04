@@ -1,5 +1,5 @@
 # PRELIM-EXAM_DELACRUZ
-Digital portfolio for GE 4120: 21st Century IT Skills — presentation design, branding, and IT project documentation by Prince Arthone B. Dela Cruz.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=4C2A1A&center=true&vCenter=true&width=600&lines=Art+%C2%B7+Fart+%C2%B7+Craft;Turning+Fart+to+Art;GE+4120+%3A+21st+Century+IT+Skills" />
 
 <div align="center">
 
