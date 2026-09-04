@@ -1,130 +1,142 @@
 # PRELIM-EXAM_DELACRUZ
 Digital portfolio for GE 4120: 21st Century IT Skills — presentation design, branding, and IT project documentation by Prince Arthone B. Dela Cruz.
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=4C2A1A&height=200&section=header&text=PRINCE%20ARTHONE%20DELA%20CRUZ&fontSize=30&fontColor=FFE4A7&animation=twinkling" width="100%"/>
-🪽 "Turning Fart to Art."
+PRINCE ARTHONE B. DELA CRUZ
 
 Art · Fart · Craft
 
-@fart2art  |  📍 Bukid  |  BSN 4F, Ateneo de Davao University — School of Nursing
+<sub>BSN 4F · Ateneo de Davao University — School of Nursing</sub>
 
-Show Image Show Image Show Image Show Image
+<br>
 
-</div> <br>
-🧭 Table of Contents
-About This Portfolio
+@fart2art   •   Bukid, Philippines
+
+<br> <img src="https://img.shields.io/badge/GE%204120-21st%20Century%20IT%20Skills-4C2A1A?style=for-the-badge&labelColor=FFE4A7" />
+
+<br><br>
+
+</div> <table width="100%"> <tr> <td align="center" width="50%"><img src="https://img.shields.io/badge/-4C2A1A?style=for-the-badge" width="100%"/><br><sub><b>DARK BROWN</b> · #4C2A1A · 85%</sub></td> <td align="center" width="50%"><img src="https://img.shields.io/badge/-FFE4A7?style=for-the-badge" width="100%"/><br><sub><b>LIGHT ORANGE</b> · #FFE4A7 · 15%</sub></td> </tr> </table> <br>
+Contents
+About
 Brand Kit
-Repository Map
+Repository Structure
 Activity 1 — Presentation Design Principles
 Activity 2 — Color Palette & Typography
 Activity 3 — Infographic & Mini Project Documentation
 Prelim Exam Presentation
 Sources
 <br>
-📖 About This Portfolio
+About
 
-This repository holds everything produced for GE 4120: 21st Century IT Skills during the Prelim period (Weeks 1–5) — a personal brand kit, a presentation-design exercise, and a full IT-based project proposal on plastic pollution, all tied together under one consistent visual identity.
+This repository holds everything produced for GE 4120: 21st Century IT Skills during the Prelim period (Weeks 1–5): a personal brand kit, a presentation-design exercise, and a full IT project proposal on plastic pollution — all built around one consistent visual identity.
 
 <br>
-🎨 Brand Kit
-<table> <tr><th>Swatch</th><th>Role</th><th>Hex</th><th>Usage</th></tr> <tr><td>🟤</td><td>Dark Brown</td><td><code>#4C2A1A</code></td><td>85%</td></tr> <tr><td>🟧</td><td>Light Orange</td><td><code>#FFE4A7</code></td><td>15%</td></tr> </table>
+Brand Kit
+<table width="100%"> <tr><td width="50%" valign="top">
+
+Color Palette
+
+Color	Hex	Usage
+Dark Brown	
+#4C2A1A	85%
+Light Orange	
+#FFE4A7	15%
+</td><td width="50%" valign="top">
+
+Typography
+
 Font	Role
-HK Modular	Headings, titles, big statements
-Liham	Descriptions and small details
-Canva Sans	Labels and information
+HK Modular	Headings & titles
+Liham	Descriptions & details
+Canva Sans	Labels & information
+</td></tr> </table>
 
-Logo: a winged letter "A" on a leather-textured background, used consistently across the logo and business card.
-
-<br>
-🗺️ Repository Map
-📁 GE4120-portfolio
- ┣ 📂 activity-1-presentation-design/
- ┃    ┗ Free Coffee flyer — Arrupe Booth 7
- ┣ 📂 activity-2-color-typography/
- ┃    ┗ "A" brand kit — logo, business card, color/type reference
- ┣ 📂 activity-3-infographic-documentation/
- ┃    ┣ "Global Plastic Pollution" infographic
- ┃    ┗ "Tracking the Tide" project proposal (EcoSort)
- ┣ 📂 prelim-exam/
- ┃    ┗ 🎥 PRELIM EXAM_DELACRUZ.mp4
- ┗ 📄 README.md
-<br>
-☕ Activity 1 — Presentation Design Principles
-<img src="https://img.shields.io/badge/Arrupe%20Booth%207-Aug%204%2C%202026-4C2A1A?style=flat-square&labelColor=FFE4A7" />
-
-What it is: A promotional flyer for a free coffee giveaway, built around a stack of coffee-cup shapes rather than a plain rectangular layout.
-
-Design principles applied:
-
-Principle	How it was used
-🧱 Shape as structure	The entire layout is built as three stacked coffee cups
-🎯 Contrast	Cream → dark brown → tan sections create clear separation
-📐 Visual hierarchy	"Free Coffee" is largest/boldest; date and fine print are smallest
-🧻 Texture	Torn-paper background for a handcrafted, organic feel
-🫘 Supporting motif	Scattered coffee beans reinforce the theme without clutter
-
-Why it works: the message — what's free, where, and when — is understood in seconds, purely from layout and hierarchy alone.
+A winged letter "A" on a leather-textured background anchors the identity — applied consistently across the logo and business card.
 
 <br>
-🖋️ Activity 2 — Color Palette & Typography
+Repository Structure
+GE4120-portfolio/
+├── activity-1-presentation-design/
+│   └── Free Coffee flyer — Arrupe Booth 7
+├── activity-2-color-typography/
+│   └── "A" brand kit — logo, business card, color/type reference
+├── activity-3-infographic-documentation/
+│   ├── Global Plastic Pollution — infographic
+│   └── Tracking the Tide — project proposal (EcoSort)
+├── prelim-exam/
+│   └── PRELIM EXAM_DELACRUZ.mp4
+└── README.md
+<br>
+Activity 1 — Presentation Design Principles
 
-What it is: A full personal brand identity built around a winged "A" logo and the tagline "Turning Fart to Art."
+A promotional flyer for a free coffee giveaway at Arrupe Booth 7, August 4, 2026 — built as a stack of coffee-cup shapes rather than a plain rectangle.
 
-Color reasoning:
+Principle	Application
+Shape as structure	Layout built as three stacked coffee cups
+Contrast	Cream → dark brown → tan sections create separation
+Visual hierarchy	"Free Coffee" largest; date and fine print smallest
+Texture	Torn-paper background for a handcrafted feel
+Supporting motif	Scattered coffee beans reinforce the theme
 
-Dark Brown 
-#4C2A1A dominates at 85% usage — grounded, warm, leather-like
-Light Orange 
-#FFE4A7 accents at 15% — adds warmth without overpowering the palette
-
-Typography reasoning:
-
-HK Modular — bold and geometric, used for headings and statements that need impact
-Liham — softer and more readable, used for descriptions and smaller details
-Canva Sans — clean and neutral, used for labels so smaller text stays legible
-
-Consistency: the same palette, texture, and type system carries across the logo and the business card — which also lists the handle @fart2art, location Bukid, and contact info — tying the whole identity into one cohesive, personality-driven brand.
+Result: the offer — what, where, when — reads clearly within seconds, driven entirely by layout and hierarchy.
 
 <br>
-🌊 Activity 3 — Infographic & Mini Project Documentation
-<img src="https://img.shields.io/badge/Topic-Global%20Plastic%20Pollution-4C2A1A?style=flat-square&labelColor=FFE4A7" />
-📊 Key Facts
+Activity 2 — Color Palette & Typography
+
+A personal brand identity built around a winged "A" logo and the tagline "Turning Fart to Art."
+
+Why these colors: Dark brown carries most of the visual weight (85%) for a grounded, leather-like feel; light orange accents (15%) add warmth without overpowering the palette.
+
+Why these fonts: HK Modular gives headings bold, geometric impact. Liham keeps descriptive text soft and readable. Canva Sans keeps labels clean and legible at small sizes.
+
+Consistency: the same palette, texture, and type system carries across the logo and business card — which also lists the handle @fart2art, location Bukid, and contact details.
+
+<br>
+Activity 3 — Infographic & Mini Project Documentation
+
+Infographic: Global Plastic Pollution Proposal: Tracking the Tide — an IoT-based smart waste sorting and plastic pollution monitoring system, EcoSort
+
+Key facts
+
 Stat	Figure
 Plastic produced per year (2024)	~400 million tonnes (up from 1.5M in 1950)
-Ever recycled (of 8.3B tonnes total)	Only 9%
-Plastic entering oceans yearly	8–11 million tons (~2,000 garbage trucks/day)
+Ever recycled, of 8.3B tonnes produced	9%
+Plastic entering oceans yearly	8–11 million tons (~2,000 trucks/day)
 Marine mammals dying annually from plastic	~100,000
-Fish caught for consumption with microplastics	1 in 3
+Fish for consumption containing microplastics	1 in 3
 Global pollution from just 20 countries	~70%
-Share of production from single-use plastics	~50%
-🔗 Cause → Effect
-Improper disposal → land and water pollution
-Excessive single-use plastics → increased accumulation and waste
-Poor waste management & low recycling → harm to wildlife, ecosystems, and human health
-🛠️ Proposed Solution — EcoSort
+Production share from single-use plastics	~50%
 
-An IoT-based Smart Waste Sorting and Plastic Pollution Monitoring System
+Cause → Effect
 
-[ Smart Bin ]  → weight sensors + fill-level detectors + image recognition
-      │
-      ▼
-[ EcoSort App ] → real-time collection status, smarter pickup routing
-      │
-      ▼
-[ Alert System ] → flags high-risk bins near waterways before overflow
-      │
-      ▼
-[ Analytics ]   → diversion-rate reports + gamified sorting incentives
+Cause	Effect
+Improper disposal	Land and water pollution
+Excessive single-use plastics	Increased accumulation and waste
+Poor waste management, low recycling	Harm to wildlife, ecosystems, human health
 
-Additional features: community reporting tool for illegal dumping, monthly diversion-rate summaries for local governments, and gamified incentives rewarding consistent, correct sorting by households and schools.
+EcoSort — how it works
+
+Smart Bin  →  weight + fill-level sensors + image recognition
+   ↓
+EcoSort App  →  real-time collection status, smarter pickup routing
+   ↓
+Alert System  →  flags high-risk bins near waterways before overflow
+   ↓
+Analytics  →  diversion-rate reports + gamified sorting incentives
+
+Additional features include a community reporting tool for illegal dumping, monthly diversion-rate summaries for local governments, and gamified incentives for households and schools.
 
 Target users: residents of urban/coastal communities, school administrators, waste management personnel, and local government environmental offices.
 
 <br>
-🎬 Prelim Exam Presentation
+Prelim Exam Presentation
 
-A recorded 5–8 minute walkthrough of this repository — covering how it was set up, the reasoning behind each activity's design, and a closing reflection on the importance of presentation design.
+A recorded 5–8 minute walkthrough of this repository — covering setup, the reasoning behind each activity's design, and a closing reflection on the importance of presentation design.
 
-📽️ PRELIM EXAM_DELACRUZ.mp4
+File: PRELIM EXAM_DELACRUZ.mp4
 
 <br>
+Sources
+Stop Ocean Plastic. (2026). Plastic pollution facts: 20 statistics you need to know.
+Ocean Blue Project. (2026). Plastic pollution statistics 2026: Facts, data & global impact.
+Omni Calculator. (2026). 44+ plastic pollution statistics.
