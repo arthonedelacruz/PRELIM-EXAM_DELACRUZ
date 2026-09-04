@@ -1,7 +1,8 @@
 # PRELIM-EXAM_DELACRUZ
 Digital portfolio for GE 4120: 21st Century IT Skills — presentation design, branding, and IT project documentation by Prince Arthone B. Dela Cruz.
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=4C2A1A&height=200&section=header&text=PRINCE%20ARTHONE%20DELA%20CRUZ&fontSize=32&fontColor=FFE4A7&animation=fadeIn" width="100%"/> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=4C2A1A&center=true&vCenter=true&width=600&lines=Art+%C2%B7+Fart+%C2%B7+Craft;Turning+Fart+to+Art;GE+4120+%3A+21st+Century+IT+Skills" /> <br>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=4C2A1A&height=200&section=header&text=PRELIM%20EXAM&fontSize=32&fontColor=FFE4A7&animation=fadeIn" width="100%"/> <img src="https://readme-typing-svg.demolab.com/?
+type=waving&color=4C2A1A&height=200&section=header&text=PRINCE%20ARTHONE%20DELACRUZ&fontSize=20&fontColor=FFE4A7&animation=fadeIn" width="100%"/> <img src="https://readme-typing-svg.demolab.com/?                                                                                                                                                                                                           font=Fira+Code&size=20&duration=3000&pause=1000&color=4C2A1A&center=true&vCenter=true&width=600&lines=Art+%C2%B7+Fart+%C2%B7+Craft;Turning+Fart+to+Art;GE+4120+%3A+21st+Century+IT+Skills" /> <br>
 
 @fart2art  •  📍 Bukid, Philippines  •  BSN 4F, Ateneo de Davao University
 
