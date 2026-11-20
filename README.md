@@ -1,5 +1,7 @@
+
 # PRELIM-EXAM_DELACRUZ
-GE 4120 digital portfolio — presentation design, branding, and IT project work by Prince Arthone Dela Cruz. Art · Fart · Craft 🪽
+
+GE 4120 Digital Portfolio — Presentation Design, Branding, and IT Project Work by Prince Arthone B. Dela Cruz. Art · Fart · Craft 🪽
 
 <div align="center">
 
@@ -21,20 +23,50 @@ GE 4120 digital portfolio — presentation design, branding, and IT project work
 <br>
 
 ## 🧭 Table of Contents
-1. [About This Portfolio](#-about-this-portfolio)
-2. [Brand Kit](#-brand-kit)
-3. [Repository Structure](#-repository-structure)
-4. [Activity 1 — Presentation Design Principles](#-activity-1--presentation-design-principles)
-5. [Activity 2 — Color Palette & Typography](#-activity-2--color-palette--typography)
-6. [Activity 3 — Infographic & Mini Project Documentation](#-activity-3--infographic--mini-project-documentation)
-7. [Prelim Exam Presentation](#-prelim-exam-presentation)
-8. [Sources](#-sources)
+
+1. [About Me](#-about-me)
+2. [About This Portfolio](#-about-this-portfolio)
+3. [Brand Kit](#-brand-kit)
+4. [Repository Structure](#-repository-structure)
+5. [Activity 1 — Presentation Design Principles](#-activity-1--presentation-design-principles)
+6. [Activity 2 — Color Palette & Typography](#-activity-2--color-palette--typography)
+7. [Activity 3 — Infographic & Mini Project Documentation](#-activity-3--infographic--mini-project-documentation)
+8. [Activity 4 — Google Drive Presentation](#-activity-4--google-drive-presentation)
+9. [Activity 5 — Comparative Product Page Generation](#-activity-5--comparative-product-page-generation)
+10. [Activity 6 — Website Objectives and Development](#-activity-6--website-objectives-and-development)
+11. [Activity 7 — Comparative Resume Generation](#-activity-7--comparative-resume-generation)
+12. [Prelim Exam Presentation](#-prelim-exam-presentation)
+13. [Sources](#-sources)
 
 <br>
 
-## 📖 About This Portfolio
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ABOUT%20ME&fontSize=22&fontColor=FFE4A7" width="100%"/>
 
-This repository holds everything produced for **GE 4120: 21st Century IT Skills** during the Prelim period (Weeks 1–5). It brings together a personal brand kit, a presentation-design exercise, and a full IT project proposal on plastic pollution, all built around one consistent visual identity.
+<div align="center">
+
+<img src="profile.jpg" width="250" alt="Prince Arthone B. Dela Cruz"/>
+
+### Prince Arthone B. Dela Cruz
+
+*Art · Fart · Craft 🪽*
+
+</div>
+
+I am **Prince Arthone B. Dela Cruz**, a student of **Ateneo de Davao University**, currently taking **BSN 4F**. This portfolio represents my creative work, ideas, experimentation, and learning journey through **GE 4120: 21st Century IT Skills**.
+
+I enjoy exploring creative ideas, visual design, branding, technology, and the ways digital tools can transform concepts into meaningful outputs. Through these activities, I explored different ways of presenting information, developing visual identities, creating digital projects, and using artificial intelligence as a tool for productivity and creativity.
+
+My personal creative identity revolves around the idea of transforming unconventional ideas into something creative and meaningful:
+
+> **Turning Fart to Art.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ABOUT%20THIS%20PORTFOLIO&fontSize=22&fontColor=FFE4A7" width="100%"/>
+
+This repository contains my Prelim outputs for **GE 4120: 21st Century IT Skills**. It showcases seven activities involving presentation design, branding, infographic creation, digital collaboration, product page comparison, website planning, and AI-assisted resume generation.
+
+The portfolio demonstrates how digital tools, design principles, creativity, critical thinking, and technology can be used to create organized, informative, and engaging outputs.
 
 <br>
 
@@ -54,17 +86,40 @@ A winged letter **"A"** on a leather-textured background anchors the identity, a
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=REPOSITORY%20STRUCTURE&fontSize=22&fontColor=FFE4A7" width="100%"/>
 
-```
-GE4120-portfolio/
-├── activity-1-presentation-design/
-│   └── Free Coffee flyer — Arrupe Booth 7
-├── activity-2-color-typography/
-│   └── "A" brand kit — logo, business card, color/type reference
-├── activity-3-infographic-documentation/
-│   ├── Global Plastic Pollution — infographic
-│   └── Tracking the Tide — project proposal (EcoSort)
-├── prelim-exam/
-│   └── PRELIM EXAM_DELACRUZ.mp4
+```text
+PRELIM-EXAM_DELACRUZ/
+│
+├── ACTIVITY_1/
+│   ├── README.md
+│   └── 1. Presentation Design Principles.pdf
+│
+├── ACTIVITY_2/
+│   ├── README.md
+│   └── 2. Color Palette and Typography.pdf
+│
+├── ACTIVITY_3/
+│   ├── README.md
+│   ├── 3. Infographic.pdf
+│   └── 3. Mini Project Documentation.pdf
+│
+├── ACTIVITY_4/
+│   ├── README.md
+│   └── Google Drive.pdf
+│
+├── ACTIVITY_5/
+│   ├── README.md
+│   └── Dela Cruz_Activity 5.pdf
+│
+├── ACTIVITY_6/
+│   ├── README.md
+│   └── DELA CRUZ_ACTIVITY 6.pdf
+│
+├── ACTIVITY_7/
+│   ├── README.md
+│   └── DELA CRUZ_ACTIVITY7.pdf
+│
+├── PRELIM EXAM_DELACRUZ.mp4
+├── profile.jpg
 └── README.md
 ```
 
@@ -74,15 +129,19 @@ GE4120-portfolio/
 
 ### Presentation Design Principles
 
-This activity is a promotional flyer for a free coffee giveaway at **Arrupe Booth 7**, held August 4, 2026, designed as a stack of coffee-cup shapes rather than a plain rectangle. Several presentation design principles were applied to make the flyer effective:
+This activity is a promotional flyer for a free coffee giveaway at **Arrupe Booth 7**, held August 4, 2026, designed as a stack of coffee-cup shapes rather than a plain rectangle.
 
-- **Shape as structure** — the entire layout is built as three stacked coffee cups, so the format itself reinforces the theme
-- **Contrast** — cream, dark brown, and tan sections create clear visual separation between parts of the message
-- **Visual hierarchy** — "Free Coffee" is the largest and boldest element, while the date and fine print are smallest
-- **Texture** — a torn-paper background gives the flyer a handcrafted, organic feel
-- **Supporting motif** — scattered coffee beans reinforce the theme without cluttering the message
+Several presentation design principles were applied:
 
-As a result, the offer — what, where, and when — reads clearly within seconds, driven almost entirely by layout and hierarchy rather than lengthy text.
+- **Shape as structure** — the entire layout is built as three stacked coffee cups, reinforcing the theme.
+- **Contrast** — cream, dark brown, and tan sections create visual separation.
+- **Visual hierarchy** — "Free Coffee" is the largest and boldest element.
+- **Texture** — a torn-paper background gives the flyer a handcrafted feel.
+- **Supporting motif** — scattered coffee beans reinforce the theme.
+
+The activity demonstrates how visual hierarchy, contrast, layout, and creativity can make promotional information more engaging and understandable.
+
+📄 [View Activity 1](./ACTIVITY_1/README.md)
 
 <br>
 
@@ -90,15 +149,19 @@ As a result, the offer — what, where, and when — reads clearly within second
 
 ### Color Palette & Typography
 
-This activity is a personal brand identity built around a winged **"A"** logo and the tagline *"Turning Fart to Art."* Every choice in the kit was made deliberately:
+This activity focuses on the creation of a personal brand identity built around a winged **"A"** logo and the tagline **"Turning Fart to Art."**
 
-- **Dark brown dominates at 85%** to create a grounded, leather-like feel
-- **Light orange accents at 15%**, adding warmth without overpowering the palette
-- **HK Modular** gives headings bold, geometric impact
-- **Liham** keeps descriptive text soft and readable
-- **Canva Sans** keeps labels clean and legible at small sizes
+The branding system includes:
 
-The same palette, texture, and type system carries across the logo and business card, which also lists the handle `@fart2art`, location `Bukid`, and contact details — keeping the identity consistent across every touchpoint.
+- A dark brown and light orange color palette.
+- A custom logo concept.
+- Typography selection and visual hierarchy.
+- Branding consistency across visual materials.
+- A business card representing the brand identity.
+
+The activity demonstrates how colors, typography, logos, and visual elements work together to establish a recognizable identity.
+
+📄 [View Activity 2](./ACTIVITY_2/README.md)
 
 <br>
 
@@ -106,35 +169,114 @@ The same palette, texture, and type system carries across the logo and business 
 
 ### Infographic & Mini Project Documentation
 
-This activity pairs an infographic, *Global Plastic Pollution*, with a full project proposal, *Tracking the Tide*, which introduces **EcoSort** — an IoT-based smart waste sorting and plastic pollution monitoring system. The infographic is grounded in real data:
+This activity combines an infographic about **Global Plastic Pollution** with a mini project proposal titled **Tracking the Tide**, introducing **EcoSort**, an IoT-based smart waste sorting and plastic pollution monitoring system.
 
-- Global plastic production reached roughly **400 million tonnes per year by 2024**, up from just 1.5 million tonnes in 1950
-- Of the 8.3 billion tonnes of plastic produced since the 1950s, only **9%** has ever been recycled
-- An estimated **8–11 million tons** of plastic enter the ocean every year, equal to about 2,000 garbage trucks a day
-- Around **100,000 marine mammals** die annually from plastic ingestion or entanglement
-- **1 in 3** fish caught for human consumption now contain microplastics
-- Almost **70%** of global plastic pollution comes from just 20 countries
+The infographic explores:
 
-The infographic also connects causes to their effects:
+- Global plastic pollution.
+- Causes and consequences of plastic waste.
+- Environmental and marine impacts.
+- Plastic waste statistics.
+- Possible solutions and sustainable practices.
 
-- Improper disposal of plastic waste leads to land and water pollution
-- Excessive use of single-use plastics increases accumulation and waste
-- Poor waste management and low recycling harm wildlife, ecosystems, and human health
+The proposed EcoSort system introduces a technology-based approach to waste management through:
 
-To address this, the proposed EcoSort system works as a connected pipeline:
+- **Smart Bin** — monitors waste through sensors.
+- **EcoSort App** — provides waste monitoring and collection information.
+- **Alert System** — identifies bins requiring attention.
+- **Analytics** — supports monitoring and waste management decisions.
 
-- **Smart Bin** — uses weight sensors, fill-level detectors, and basic image recognition
-- **EcoSort App** — displays real-time collection status and enables smarter pickup routing
-- **Alert System** — flags high-risk bins near waterways before they overflow
-- **Analytics** — generates diversion-rate reports and powers gamified sorting incentives
+The project demonstrates how information design, environmental awareness, technology, and innovation can be combined to address real-world problems.
 
-The system also includes a community reporting tool for illegal dumping and monthly diversion-rate summaries for local governments. It's aimed at residents of urban and coastal communities, school administrators, waste management personnel, and local government environmental offices.
+📄 [View Activity 3](./ACTIVITY_3/README.md)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ACTIVITY%204&fontSize=22&fontColor=FFE4A7" width="100%"/>
+
+### Google Drive Presentation
+
+This activity explores **Google Drive** as a cloud-based storage and collaboration platform.
+
+The presentation discusses:
+
+- Google Drive's purpose and functions.
+- Cloud storage and accessibility.
+- File organization and management.
+- File sharing and collaboration.
+- Productivity and digital teamwork.
+
+The activity demonstrates the importance of cloud-based platforms in organizing files, sharing information, collaborating with others, and accessing digital resources.
+
+📄 [View Activity 4](./ACTIVITY_4/README.md)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ACTIVITY%205&fontSize=22&fontColor=FFE4A7" width="100%"/>
+
+### Comparative Product Page Generation
+
+This activity compares AI-generated product pages for **Sunbreak** and **Arthone Apex 16**, focusing on the presentation and marketing of pickleball paddle products.
+
+The comparison examines:
+
+- Product descriptions.
+- Visual presentation and branding.
+- Product specifications.
+- Layout and organization.
+- Clarity and completeness of information.
+- Marketing effectiveness.
+
+The activity demonstrates how artificial intelligence can assist in generating product content while requiring critical evaluation of accuracy, design, presentation, and communication.
+
+📄 [View Activity 5](./ACTIVITY_5/README.md)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ACTIVITY%206&fontSize=22&fontColor=FFE4A7" width="100%"/>
+
+### Website Objectives and Development
+
+This activity focuses on establishing the objectives and direction of a website for **BADINK Pickleball Court**, a proposed pickleball court business.
+
+The website concept aims to:
+
+- Promote the business and its services.
+- Provide information about the pickleball court.
+- Present pricing and reservation details.
+- Improve customer communication.
+- Enhance customer experience and accessibility.
+
+The activity demonstrates how website planning begins with identifying goals, understanding users, organizing information, and determining the functions a website should provide.
+
+📄 [View Activity 6](./ACTIVITY_6/README.md)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ACTIVITY%207&fontSize=22&fontColor=FFE4A7" width="100%"/>
+
+### Comparative Resume Generation Using Multiple LLMs
+
+This activity compares AI-generated resumes created using multiple Large Language Models, particularly **ChatGPT and Claude**, based on the same information and qualifications.
+
+The comparison focuses on:
+
+- Resume structure and organization.
+- Professional presentation.
+- Content quality.
+- Clarity and readability.
+- Formatting and overall design.
+- Differences in AI-generated outputs.
+
+The activity demonstrates how different AI tools can produce varying results from similar prompts and how users can evaluate, refine, and improve AI-generated professional documents.
+
+📄 [View Activity 7](./ACTIVITY_7/README.md)
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=PRELIM%20EXAM&fontSize=22&fontColor=FFE4A7" width="100%"/>
 
-This section holds a recorded 5–8 minute walkthrough of the repository, covering how it was set up, the reasoning behind each activity's design, and a closing reflection on the importance of presentation design.
+This section contains the recorded walkthrough of my portfolio, covering the repository organization, activities, design decisions, and reflections on the learning experience throughout the Prelim period.
 
 📽️ **File:** `PRELIM EXAM_DELACRUZ.mp4`
 
@@ -155,4 +297,3 @@ This section holds a recorded 5–8 minute walkthrough of the repository, coveri
 <sub>© 2026 Prince Arthone B. Dela Cruz · GE 4120 Portfolio</sub>
 
 </div>
-
