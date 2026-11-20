@@ -1,286 +1,344 @@
 
-# PRELIM-EXAM_DELACRUZ
-
-GE 4120 Digital Portfolio — Presentation Design, Branding, and IT Project Work by Prince Arthone B. Dela Cruz. Art · Fart · Craft 🪽
+# 🪽 PRELIM-EXAM_DELACRUZ
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4C2A1A&height=200&section=header&text=PRINCE%20ARTHONE%20DELA%20CRUZ&fontSize=32&fontColor=FFE4A7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4C2A1A&height=220&section=header&text=ARTHONE%20DELA%20CRUZ&fontSize=38&fontColor=FFE4A7&animation=fadeIn&fontAlignY=38&desc=ART%20%E2%80%A2%20FART%20%E2%80%A2%20CRAFT&descAlignY=62&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=4C2A1A&center=true&vCenter=true&width=600&lines=Art+%C2%B7+Fart+%C2%B7+Craft;Turning+Fart+to+Art;GE+4120+%3A+21st+Century+IT+Skills" />
+<img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=22&duration=3000&pause=1200&color=4C2A1A&center=true&vCenter=true&width=700&lines=Welcome+to+my+creative+corner+%E2%98%95;Turning+Fart+to+Art+%F0%9F%8E%A8;Ideas+%E2%80%A2+Design+%E2%80%A2+Technology;GE+4120+%7C+21st+Century+IT+Skills" />
 
 <br>
 
-`@fart2art` &nbsp;•&nbsp; 📍 Bukid, Philippines &nbsp;•&nbsp; BSN 4F, Ateneo de Davao University
+<img src="profile.jpg" width="230" alt="Prince Arthone B. Dela Cruz" />
 
-![Brown](https://img.shields.io/badge/-4C2A1A-4C2A1A?style=for-the-badge)
-![Orange](https://img.shields.io/badge/-FFE4A7-FFE4A7?style=for-the-badge)
-![Course](https://img.shields.io/badge/COURSE-GE%204120-4C2A1A?style=for-the-badge&labelColor=FFE4A7)
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-4C2A1A?style=for-the-badge&labelColor=FFE4A7)
+<br>
+
+### PRINCE ARTHONE B. DELA CRUZ
+
+<em>Student · Creative Explorer · Digital Experimenter</em>
+
+`@fart2art` &nbsp; ☕ &nbsp; 📍 Bukid, Philippines &nbsp; 🎓 BSN 4F
+
+<br>
+
+![Course](https://img.shields.io/badge/GE%204120-21st%20Century%20IT%20Skills-4C2A1A?style=for-the-badge&labelColor=FFE4A7)
+![Portfolio](https://img.shields.io/badge/DIGITAL-PORTFOLIO-4C2A1A?style=for-the-badge&labelColor=FFE4A7)
+![Status](https://img.shields.io/badge/STATUS-CREATING-4C2A1A?style=for-the-badge&labelColor=FFE4A7)
 
 </div>
 
-<br>
+---
 
-## 🧭 Table of Contents
+## ☕ A LITTLE ABOUT ME
 
-1. [About Me](#-about-me)
-2. [About This Portfolio](#-about-this-portfolio)
-3. [Brand Kit](#-brand-kit)
-4. [Repository Structure](#-repository-structure)
-5. [Activity 1 — Presentation Design Principles](#-activity-1--presentation-design-principles)
-6. [Activity 2 — Color Palette & Typography](#-activity-2--color-palette--typography)
-7. [Activity 3 — Infographic & Mini Project Documentation](#-activity-3--infographic--mini-project-documentation)
-8. [Activity 4 — Google Drive Presentation](#-activity-4--google-drive-presentation)
-9. [Activity 5 — Comparative Product Page Generation](#-activity-5--comparative-product-page-generation)
-10. [Activity 6 — Website Objectives and Development](#-activity-6--website-objectives-and-development)
-11. [Activity 7 — Comparative Resume Generation](#-activity-7--comparative-resume-generation)
-12. [Prelim Exam Presentation](#-prelim-exam-presentation)
-13. [Sources](#-sources)
+> *"Some ideas are strange. Some ideas are beautiful. Sometimes, the strange ones become beautiful."*
 
-<br>
+Hey! I'm **Prince Arthone B. Dela Cruz**, a student from **Ateneo de Davao University**, currently taking **BSN 4F**.
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ABOUT%20ME&fontSize=22&fontColor=FFE4A7" width="100%"/>
+Welcome to my little digital corner — a collection of ideas, experiments, designs, projects, and discoveries from my journey through **GE 4120: 21st Century IT Skills**.
+
+I believe creativity doesn't always begin with something perfect. Sometimes, it begins with curiosity, a random idea, a little chaos, and the willingness to turn something unexpected into something meaningful.
+
+That's where **Art · Fart · Craft** comes in.
 
 <div align="center">
 
-<img src="profile.jpg" width="250" alt="Prince Arthone B. Dela Cruz"/>
-
-### Prince Arthone B. Dela Cruz
-
-*Art · Fart · Craft 🪽*
+<img src="https://img.shields.io/badge/ART-Creativity-4C2A1A?style=flat-square&labelColor=FFE4A7"/>
+<img src="https://img.shields.io/badge/FART-Chaos-4C2A1A?style=flat-square&labelColor=FFE4A7"/>
+<img src="https://img.shields.io/badge/CRAFT-Execution-4C2A1A?style=flat-square&labelColor=FFE4A7"/>
 
 </div>
 
-I am **Prince Arthone B. Dela Cruz**, a student of **Ateneo de Davao University**, currently taking **BSN 4F**. This portfolio represents my creative work, ideas, experimentation, and learning journey through **GE 4120: 21st Century IT Skills**.
+### 🧩 Things I enjoy exploring
 
-I enjoy exploring creative ideas, visual design, branding, technology, and the ways digital tools can transform concepts into meaningful outputs. Through these activities, I explored different ways of presenting information, developing visual identities, creating digital projects, and using artificial intelligence as a tool for productivity and creativity.
+- 🎨 Visual design and creative expression
+- 💡 Turning ideas into projects
+- 🖥️ Digital tools and technology
+- 🤖 Artificial intelligence and experimentation
+- 📚 Learning new skills and perspectives
+- 🌱 Finding creative solutions to real-world problems
 
-My personal creative identity revolves around the idea of transforming unconventional ideas into something creative and meaningful:
+---
 
-> **Turning Fart to Art.**
+<div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=65&section=header&text=THE%20CREATIVE%20LAB&fontSize=24&fontColor=FFE4A7" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ABOUT%20THIS%20PORTFOLIO&fontSize=22&fontColor=FFE4A7" width="100%"/>
+</div>
 
-This repository contains my Prelim outputs for **GE 4120: 21st Century IT Skills**. It showcases seven activities involving presentation design, branding, infographic creation, digital collaboration, product page comparison, website planning, and AI-assisted resume generation.
+## 🧪 About This Portfolio
 
-The portfolio demonstrates how digital tools, design principles, creativity, critical thinking, and technology can be used to create organized, informative, and engaging outputs.
+This repository contains my **Prelim activities for GE 4120: 21st Century IT Skills**.
 
-<br>
+Rather than treating every activity as an isolated task, I organized them as a collection of creative explorations involving design, technology, communication, problem-solving, and artificial intelligence.
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=BRAND%20KIT&fontSize=22&fontColor=FFE4A7" width="100%"/>
-
-The identity behind this portfolio is built on a warm, leather-inspired palette and a three-font system:
-
-- **Dark Brown** `#4C2A1A` — used at 85%, carrying most of the visual weight
-- **Light Orange** `#FFE4A7` — used at 15%, reserved for accents
-- **HK Modular** — for headings, titles, and big statements
-- **Liham** — for descriptions and small details
-- **Canva Sans** — for labels and information
-
-A winged letter **"A"** on a leather-textured background anchors the identity, applied consistently across the logo and business card.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=REPOSITORY%20STRUCTURE&fontSize=22&fontColor=FFE4A7" width="100%"/>
-
-```text
-PRELIM-EXAM_DELACRUZ/
-│
-├── ACTIVITY_1/
-│   ├── README.md
-│   └── 1. Presentation Design Principles.pdf
-│
-├── ACTIVITY_2/
-│   ├── README.md
-│   └── 2. Color Palette and Typography.pdf
-│
-├── ACTIVITY_3/
-│   ├── README.md
-│   ├── 3. Infographic.pdf
-│   └── 3. Mini Project Documentation.pdf
-│
-├── ACTIVITY_4/
-│   ├── README.md
-│   └── Google Drive.pdf
-│
-├── ACTIVITY_5/
-│   ├── README.md
-│   └── Dela Cruz_Activity 5.pdf
-│
-├── ACTIVITY_6/
-│   ├── README.md
-│   └── DELA CRUZ_ACTIVITY 6.pdf
-│
-├── ACTIVITY_7/
-│   ├── README.md
-│   └── DELA CRUZ_ACTIVITY7.pdf
-│
-├── PRELIM EXAM_DELACRUZ.mp4
-├── profile.jpg
-└── README.md
-```
+| 🗂️ | What You'll Find |
+|---|---|
+| 🎨 | Presentation design and visual communication |
+| 🪽 | Personal branding and visual identity |
+| 🌊 | Environmental infographic and IT project proposal |
+| ☁️ | Cloud storage and digital collaboration |
+| 🏓 | AI-generated product page comparison |
+| 🌐 | Website planning and business objectives |
+| 🤖 | AI-assisted resume generation and comparison |
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ACTIVITY%201&fontSize=22&fontColor=FFE4A7" width="100%"/>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=65&section=header&text=MY%20BRAND%20DNA&fontSize=24&fontColor=FFE4A7" width="100%"/>
+
+</div>
+
+## 🪽 The Art · Fart · Craft Identity
+
+My portfolio follows a visual identity inspired by warmth, texture, creativity, and simplicity.
+
+### 🎨 Color Palette
+
+| Color | Hex Code | Role |
+|---|---|---|
+| 🟤 Dark Brown | `#4C2A1A` | Primary color, background elements, visual weight |
+| 🟡 Light Orange | `#FFE4A7` | Accent color, highlights, secondary elements |
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PRIMARY-4C2A1A-4C2A1A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ACCENT-FFE4A7-FFE4A7?style=for-the-badge"/>
+
+</div>
+
+### ✍️ Typography
+
+- **HK Modular** — headings, titles, and bold statements
+- **Liham** — descriptions and expressive text
+- **Canva Sans** — labels and readable information
+
+### 🪽 Brand Symbol
+
+The winged letter **A** represents the creative identity behind the portfolio, designed with a leather-inspired texture and a distinctive visual character.
+
+The goal is to create something that feels personal, recognizable, and a little unconventional.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=65&section=header&text=THE%20PORTFOLIO%20COLLECTION&fontSize=24&fontColor=FFE4A7" width="100%"/>
+
+</div>
+
+# 🗃️ Activities 1–7
+
+<sub>Seven activities. Seven different explorations. One creative journey.</sub>
+
+---
+
+## ☕ ACTIVITY 01
 ### Presentation Design Principles
 
-This activity is a promotional flyer for a free coffee giveaway at **Arrupe Booth 7**, held August 4, 2026, designed as a stack of coffee-cup shapes rather than a plain rectangle.
+<sub>VISUAL COMMUNICATION · LAYOUT · DESIGN</sub>
 
-Several presentation design principles were applied:
+A promotional flyer for a **Free Coffee Giveaway at Arrupe Booth 7**, designed using coffee-cup shapes as the primary structure rather than a conventional rectangular layout.
 
-- **Shape as structure** — the entire layout is built as three stacked coffee cups, reinforcing the theme.
-- **Contrast** — cream, dark brown, and tan sections create visual separation.
-- **Visual hierarchy** — "Free Coffee" is the largest and boldest element.
-- **Texture** — a torn-paper background gives the flyer a handcrafted feel.
-- **Supporting motif** — scattered coffee beans reinforce the theme.
+### What went into it?
 
-The activity demonstrates how visual hierarchy, contrast, layout, and creativity can make promotional information more engaging and understandable.
+- **Shape as structure** — the stacked coffee cups form the foundation of the design.
+- **Contrast** — cream, brown, and tan create visual separation.
+- **Hierarchy** — the most important message receives the greatest emphasis.
+- **Texture** — torn-paper elements create a handcrafted appearance.
+- **Visual motifs** — coffee beans reinforce the concept.
 
-📄 [View Activity 1](./ACTIVITY_1/README.md)
+This project explores how creativity and presentation design principles can transform a simple promotional message into a visually engaging composition.
 
-<br>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ACTIVITY%202&fontSize=22&fontColor=FFE4A7" width="100%"/>
+[![Activity 1](https://img.shields.io/badge/EXPLORE-ACTIVITY%201-4C2A1A?style=for-the-badge&labelColor=FFE4A7)](./ACTIVITY_1/README.md)
 
+</div>
+
+---
+
+## 🪽 ACTIVITY 02
 ### Color Palette & Typography
 
-This activity focuses on the creation of a personal brand identity built around a winged **"A"** logo and the tagline **"Turning Fart to Art."**
+<sub>PERSONAL BRANDING · VISUAL IDENTITY</sub>
 
-The branding system includes:
+The creation of a personal visual identity centered around a winged **"A"** logo and the tagline **"Turning Fart to Art."**
+
+### What went into it?
 
 - A dark brown and light orange color palette.
-- A custom logo concept.
-- Typography selection and visual hierarchy.
-- Branding consistency across visual materials.
-- A business card representing the brand identity.
+- A logo concept and visual symbol.
+- Typography selection.
+- Branding consistency.
+- A personal business card.
 
-The activity demonstrates how colors, typography, logos, and visual elements work together to establish a recognizable identity.
+This activity explores how color, typography, logos, and visual elements combine to create a cohesive and recognizable identity.
 
-📄 [View Activity 2](./ACTIVITY_2/README.md)
+<div align="center">
 
-<br>
+[![Activity 2](https://img.shields.io/badge/EXPLORE-ACTIVITY%202-4C2A1A?style=for-the-badge&labelColor=FFE4A7)](./ACTIVITY_2/README.md)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ACTIVITY%203&fontSize=22&fontColor=FFE4A7" width="100%"/>
+</div>
 
-### Infographic & Mini Project Documentation
+---
 
-This activity combines an infographic about **Global Plastic Pollution** with a mini project proposal titled **Tracking the Tide**, introducing **EcoSort**, an IoT-based smart waste sorting and plastic pollution monitoring system.
+## 🌊 ACTIVITY 03
+### Tracking the Tide
 
-The infographic explores:
+<sub>INFOGRAPHIC · ENVIRONMENT · IOT · INNOVATION</sub>
+
+An infographic about **Global Plastic Pollution** paired with a mini project proposal introducing **EcoSort**, an IoT-based smart waste sorting and plastic pollution monitoring system.
+
+### The infographic explores
 
 - Global plastic pollution.
-- Causes and consequences of plastic waste.
-- Environmental and marine impacts.
+- Causes and environmental consequences.
 - Plastic waste statistics.
-- Possible solutions and sustainable practices.
+- Marine and ecosystem impacts.
+- Sustainable solutions.
 
-The proposed EcoSort system introduces a technology-based approach to waste management through:
+### The EcoSort concept
 
-- **Smart Bin** — monitors waste through sensors.
-- **EcoSort App** — provides waste monitoring and collection information.
-- **Alert System** — identifies bins requiring attention.
-- **Analytics** — supports monitoring and waste management decisions.
+| 🌱 Component | Purpose |
+|---|---|
+| Smart Bin | Monitors waste through sensors |
+| EcoSort App | Provides collection and monitoring information |
+| Alert System | Identifies bins requiring attention |
+| Analytics | Supports waste management decisions |
 
-The project demonstrates how information design, environmental awareness, technology, and innovation can be combined to address real-world problems.
+The project connects environmental awareness with technology, proposing a smarter approach to waste management and community sustainability.
 
-📄 [View Activity 3](./ACTIVITY_3/README.md)
+<div align="center">
 
-<br>
+[![Activity 3](https://img.shields.io/badge/EXPLORE-ACTIVITY%203-4C2A1A?style=for-the-badge&labelColor=FFE4A7)](./ACTIVITY_3/README.md)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ACTIVITY%204&fontSize=22&fontColor=FFE4A7" width="100%"/>
+</div>
 
+---
+
+## ☁️ ACTIVITY 04
 ### Google Drive Presentation
 
-This activity explores **Google Drive** as a cloud-based storage and collaboration platform.
+<sub>CLOUD STORAGE · COLLABORATION · PRODUCTIVITY</sub>
 
-The presentation discusses:
+A presentation exploring **Google Drive** as a cloud-based storage and collaboration platform.
 
-- Google Drive's purpose and functions.
+### What was explored?
+
 - Cloud storage and accessibility.
 - File organization and management.
-- File sharing and collaboration.
-- Productivity and digital teamwork.
+- File sharing.
+- Collaboration.
+- Digital productivity.
 
-The activity demonstrates the importance of cloud-based platforms in organizing files, sharing information, collaborating with others, and accessing digital resources.
+This activity highlights the importance of cloud-based tools in organizing information, collaborating with others, and accessing files across devices.
 
-📄 [View Activity 4](./ACTIVITY_4/README.md)
+<div align="center">
 
-<br>
+[![Activity 4](https://img.shields.io/badge/EXPLORE-ACTIVITY%204-4C2A1A?style=for-the-badge&labelColor=FFE4A7)](./ACTIVITY_4/README.md)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ACTIVITY%205&fontSize=22&fontColor=FFE4A7" width="100%"/>
+</div>
 
-### Comparative Product Page Generation
+---
 
-This activity compares AI-generated product pages for **Sunbreak** and **Arthone Apex 16**, focusing on the presentation and marketing of pickleball paddle products.
+## 🏓 ACTIVITY 05
+### Sunbreak vs. Arthone Apex 16
 
-The comparison examines:
+<sub>AI · PRODUCT DESIGN · MARKETING · COMPARISON</sub>
+
+A comparative evaluation of AI-generated product pages for pickleball paddle products.
+
+### The comparison focuses on
 
 - Product descriptions.
-- Visual presentation and branding.
-- Product specifications.
+- Branding and visual presentation.
+- Specifications.
 - Layout and organization.
-- Clarity and completeness of information.
+- Clarity and completeness.
 - Marketing effectiveness.
 
-The activity demonstrates how artificial intelligence can assist in generating product content while requiring critical evaluation of accuracy, design, presentation, and communication.
+This activity explores how AI can generate marketing content and how its outputs can be evaluated for quality, accuracy, creativity, and usability.
 
-📄 [View Activity 5](./ACTIVITY_5/README.md)
+<div align="center">
 
-<br>
+[![Activity 5](https://img.shields.io/badge/EXPLORE-ACTIVITY%205-4C2A1A?style=for-the-badge&labelColor=FFE4A7)](./ACTIVITY_5/README.md)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ACTIVITY%206&fontSize=22&fontColor=FFE4A7" width="100%"/>
+</div>
 
-### Website Objectives and Development
+---
 
-This activity focuses on establishing the objectives and direction of a website for **BADINK Pickleball Court**, a proposed pickleball court business.
+## 🎾 ACTIVITY 06
+### BADINK Pickleball Court Website
 
-The website concept aims to:
+<sub>WEB PLANNING · BUSINESS · USER EXPERIENCE</sub>
+
+A website planning activity centered on **BADINK Pickleball Court**, a proposed pickleball court business.
+
+### Website objectives
 
 - Promote the business and its services.
-- Provide information about the pickleball court.
-- Present pricing and reservation details.
+- Present court information.
+- Display pricing and reservation details.
 - Improve customer communication.
-- Enhance customer experience and accessibility.
+- Enhance accessibility and user experience.
 
-The activity demonstrates how website planning begins with identifying goals, understanding users, organizing information, and determining the functions a website should provide.
+This activity demonstrates the importance of defining website objectives before development, ensuring the website serves the needs of both the business and its customers.
 
-📄 [View Activity 6](./ACTIVITY_6/README.md)
+<div align="center">
 
-<br>
+[![Activity 6](https://img.shields.io/badge/EXPLORE-ACTIVITY%206-4C2A1A?style=for-the-badge&labelColor=FFE4A7)](./ACTIVITY_6/README.md)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=ACTIVITY%207&fontSize=22&fontColor=FFE4A7" width="100%"/>
+</div>
 
+---
+
+## 🤖 ACTIVITY 07
 ### Comparative Resume Generation Using Multiple LLMs
 
-This activity compares AI-generated resumes created using multiple Large Language Models, particularly **ChatGPT and Claude**, based on the same information and qualifications.
+<sub>ARTIFICIAL INTELLIGENCE · RESUME · CRITICAL EVALUATION</sub>
 
-The comparison focuses on:
+A comparison of resumes generated using **ChatGPT and Claude**, based on the same information and qualifications.
 
-- Resume structure and organization.
-- Professional presentation.
+### Comparison criteria
+
 - Content quality.
+- Resume structure.
+- Organization.
 - Clarity and readability.
-- Formatting and overall design.
-- Differences in AI-generated outputs.
+- Formatting.
+- Overall professional presentation.
 
-The activity demonstrates how different AI tools can produce varying results from similar prompts and how users can evaluate, refine, and improve AI-generated professional documents.
+This activity explores how different Large Language Models interpret prompts and produce outputs, highlighting the importance of evaluating, refining, and improving AI-generated work rather than accepting it automatically.
 
-📄 [View Activity 7](./ACTIVITY_7/README.md)
+<div align="center">
 
-<br>
+[![Activity 7](https://img.shields.io/badge/EXPLORE-ACTIVITY%207-4C2A1A?style=for-the-badge&labelColor=FFE4A7)](./ACTIVITY_7/README.md)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=55&section=header&text=PRELIM%20EXAM&fontSize=22&fontColor=FFE4A7" width="100%"/>
+</div>
 
-This section contains the recorded walkthrough of my portfolio, covering the repository organization, activities, design decisions, and reflections on the learning experience throughout the Prelim period.
+---
 
-📽️ **File:** `PRELIM EXAM_DELACRUZ.mp4`
+<div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=65&section=header&text=PRELIM%20EXAM%20SHOWCASE&fontSize=24&fontColor=FFE4A7" width="100%"/>
+
+</div>
+
+## 🎬 Prelim Exam Presentation
+
+A recorded walkthrough of this repository, showcasing the organization of my portfolio, the activities completed, the design choices behind the outputs, and my overall learning experience.
+
+📽️ **Presentation File:** `FINAL REQUIREMENT_DELACRUZ.mp4`
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4C2A1A&height=65&section=header&text=REFERENCES&fontSize=24&fontColor=FFE4A7" width="100%"/>
+
+</div>
 
 ## 📚 Sources
 
@@ -288,12 +346,18 @@ This section contains the recorded walkthrough of my portfolio, covering the rep
 - Ocean Blue Project. (2026). *Plastic pollution statistics 2026: Facts, data & global impact.*
 - Omni Calculator. (2026). *44+ plastic pollution statistics.*
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4C2A1A&height=120&section=footer&text=Turning%20Fart%20to%20Art&fontSize=18&fontColor=FFE4A7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4C2A1A&height=180&section=footer&text=TURNING%20FART%20TO%20ART&fontSize=28&fontColor=FFE4A7&animation=fadeIn" width="100%"/>
 
-<sub>© 2026 Prince Arthone B. Dela Cruz · GE 4120 Portfolio</sub>
+### 🪽 Art · Fart · Craft
+
+<em>Made with creativity, curiosity, and a little bit of chaos.</em>
+
+<br>
+
+<sub>© 2026 Prince Arthone B. Dela Cruz · GE 4120 Digital Portfolio</sub>
 
 </div>
